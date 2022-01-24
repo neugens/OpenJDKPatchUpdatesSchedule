@@ -6,12 +6,12 @@ Usage:
 
 ## Method one
 
-1. Compile the app: $ javac Main.java
-2. Run it: $ java Main.java 2022
+$ javac Main.java
+$ java Main.java 2022
 
 ## Method two
 
 Use jbang :) [https://www.jbang.dev/]
 
-1. jbang Main.java 2022
+$ jbang Main.java 2022
 
