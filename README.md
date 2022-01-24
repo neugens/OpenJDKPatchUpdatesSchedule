@@ -9,7 +9,7 @@ Usage:
 1. Compile the app: $ javac Main.java
 2. Run it: $ java Main.java 2022
 
-## Method 2
+## Method two
 
 Use jbang :) [https://www.jbang.dev/]
 
