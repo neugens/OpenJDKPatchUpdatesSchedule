@@ -6,8 +6,9 @@ Usage:
 
 ## Method one
 
-$ javac Main.java
-$ java Main.java 2022
+  $ javac Main.java
+  
+  $ java Main.java 2022
 
 ## Method two
 
