@@ -1,6 +1,6 @@
 # OpenJDKPatchUpdatesSchedule
 
-A very trivial tool to check the when an OpenJDK patch update can be expected (or has been likely released!). No guarantees this is exact though, use at your own risk, this software may autodestruct your machine or become self aware at 2:14 a.m.!
+A very trivial tool to check when an OpenJDK patch update can be expected (or has been likely released!). No guarantees this is exact though, use at your own risk, this software may autodestruct your machine or become self aware at 2:14 a.m.!
 
 Usage:
 
